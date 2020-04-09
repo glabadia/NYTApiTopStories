@@ -1,2 +1,0 @@
-# NYTApiTopStories
-Created with CodeSandbox
